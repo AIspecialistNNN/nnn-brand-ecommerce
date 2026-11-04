@@ -307,7 +307,7 @@ export function StoreProvider({ children }: { children: React.ReactNode }) {
   }, [appliedPromoCode, discounts, cartSubtotalUzs]);
 
   const discountAmountUzs = useMemo(() => {
-    if (!appliedPromo) return null || 0;
+    if (!appliedPromo) return 0;
     if (appliedPromo.type === "PERCENTAGE") {
       return Math.round((cartSubtotalUzs * appliedPromo.value) / 100);
     }
