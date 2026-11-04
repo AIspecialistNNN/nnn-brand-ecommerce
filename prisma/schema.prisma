@@ -1,0 +1,140 @@
+// NNN BRAND — Production PostgreSQL Schema
+// "Less Noise. More Identity."
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum UserRole {
+  CUSTOMER
+  ADMIN
+}
+
+enum OrderStatus {
+  PENDING
+  AWAITING_PAYMENT
+  CONFIRMED
+  PROCESSING
+  SHIPPED
+  DELIVERED
+  CANCELLED
+}
+
+enum PaymentMethod {
+  CLICK
+  PAYME
+  CASH_ON_DELIVERY
+}
+
+enum PaymentStatus {
+  PENDING_MERCHANT
+  SANDBOX_VERIFIED
+  PAID
+  FAILED
+  COD_PENDING
+}
+
+model User {
+  id           String   @id @default(cuid())
+  email        String   @unique
+  name         String
+  phone        String
+  passwordHash String
+  role         UserRole @default(CUSTOMER)
+  region       String?
+  address      String?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  orders       Order[]
+}
+
+model Category {
+  id          String    @id @default(cuid())
+  slug        String    @unique
+  nameUz      String
+  nameRu      String
+  nameEn      String
+  description String?
+  featured    Boolean   @default(false)
+  products    Product[]
+  createdAt   DateTime  @default(now())
+}
+
+model Product {
+  id                String   @id @default(cuid())
+  sku               String   @unique
+  slug              String   @unique
+  nameUz            String
+  nameRu            String
+  nameEn            String
+  descriptionUz     String
+  descriptionRu     String
+  descriptionEn     String
+  priceUzs          Int
+  compareAtPriceUzs Int?
+  categoryId        String
+  category          Category @relation(fields: [categoryId], references: [id])
+  garmentArchetype  String   // overcoat | blazer | hoodie | overshirt | trousers | tote | tee
+  model3dUrl        String?  // Optional external .glb / .gltf URL
+  has3dModel        Boolean  @default(true)
+  images360         String[] // 360-degree ordered image frames
+  gallery           String[] // Editorial high-resolution images
+  fabricUz          String
+  fabricRu          String
+  fabricEn          String
+  careInstructions  String
+  fitNotes          String
+  isNewArrival      Boolean  @default(false)
+  isBestSeller      Boolean  @default(false)
+  isFeatured        Boolean  @default(false)
+  colors            Json     // Array of { id, nameUz, nameRu, nameEn, hex, roughness, metalness }
+  sizes             Json     // Array of { size: 'XS'|'S'|'M'|'L'|'XL'|'XXL', stock: number, chestCm: string, lengthCm: string }
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+}
+
+model DiscountCode {
+  id             String   @id @default(cuid())
+  code           String   @unique
+  type           String   // PERCENTAGE | FIXED_UZS
+  value          Int      // Percentage (e.g. 10) or UZS amount (e.g. 150000)
+  minOrderUzs    Int      @default(0)
+  active         Boolean  @default(true)
+  usageCount     Int      @default(0)
+  maxUses        Int      @default(500)
+  descriptionUz  String
+  createdAt      DateTime @default(now())
+}
+
+model Order {
+  id                  String        @id @default(cuid())
+  orderNumber         String        @unique
+  userId              String?
+  user                User?         @relation(fields: [userId], references: [id])
+  customerName        String
+  customerPhone       String
+  customerEmail       String?
+  region              String
+  district            String
+  addressLine         String
+  deliveryMethod      String        // TASHKENT_EXPRESS | REGIONAL_COURIER | SHOWROOM_PICKUP
+  shippingCostUzs     Int
+  subtotalUzs         Int
+  discountCode        String?
+  discountAmountUzs   Int           @default(0)
+  totalUzs            Int
+  paymentMethod       PaymentMethod
+  paymentStatus       PaymentStatus @default(PENDING_MERCHANT)
+  paymentTransactionId String?
+  status              OrderStatus   @default(PENDING)
+  telegramNotified    Boolean       @default(false)
+  notes               String?
+  items               Json          // Validated snapshot of purchased items
+  createdAt           DateTime      @default(now())
+  updatedAt           DateTime      @updatedAt
+}

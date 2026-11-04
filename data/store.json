@@ -1,0 +1,1531 @@
+{
+  "products": [
+    {
+      "id": "prod-monolith-overcoat",
+      "sku": "NNN-AW26-OC01",
+      "slug": "monolith-wool-overcoat",
+      "nameUz": "MONOLITH Jun-Kaşmir Palto",
+      "nameRu": "Шерстяное пальто MONOLITH с кашемиром",
+      "nameEn": "MONOLITH Wool-Cashmere Overcoat",
+      "subtitleUz": "780 GSM Italiya virgin juni · Me'moriy uzun siluet",
+      "subtitleRu": "780 GSM итальянская шерсть · Архитектурный макси-силуэт",
+      "subtitleEn": "780 GSM Italian Virgin Wool · Architectural Maxi Silhouette",
+      "descriptionUz": "NNN BRAND'ning flagman ustki kiyimi. Biella (Italiya) fabrikasida to'qilgan 85% virgin jun va 15% kaşmir aralashmasidan tayyorlangan. Aniq geometrik yelka chizig'i, yashirin shox tugmalar va ichki cupro astar har qanday ob-havoda mukammal siluetni saqlab qoladi.",
+      "descriptionRu": "Флагманское пальто NNN BRAND. Выполнено из смеси 85% шерсти virgin и 15% кашемира фабрики в Биелле (Италия). Выверенная геометрия плеч, скрытая застежка из натурального рога и подкладка из купро.",
+      "descriptionEn": "The signature outerwear piece of NNN BRAND. Tailored from an 85% virgin wool and 15% cashmere double-faced cloth milled in Biella, Italy. Engineered with structured shoulders, concealed horn buttons, and full Bemberg cupro lining.",
+      "priceUzs": 4290000,
+      "compareAtPriceUzs": 4850000,
+      "categoryId": "cat-outerwear",
+      "categorySlug": "outerwear",
+      "garmentArchetype": "overcoat",
+      "model3dUrl": "/api/models/overcoat.glb",
+      "has3dModel": true,
+      "gallery": [
+        "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "frames360": [
+        {
+          "angle": 0,
+          "imageUrl": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Overcoat — 0° Studio View"
+        },
+        {
+          "angle": 30,
+          "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Overcoat — 30° Studio View"
+        },
+        {
+          "angle": 60,
+          "imageUrl": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Overcoat — 60° Studio View"
+        },
+        {
+          "angle": 90,
+          "imageUrl": "https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Overcoat — 90° Studio View"
+        },
+        {
+          "angle": 120,
+          "imageUrl": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Overcoat — 120° Studio View"
+        },
+        {
+          "angle": 150,
+          "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Overcoat — 150° Studio View"
+        },
+        {
+          "angle": 180,
+          "imageUrl": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Overcoat — 180° Studio View"
+        },
+        {
+          "angle": 210,
+          "imageUrl": "https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Overcoat — 210° Studio View"
+        },
+        {
+          "angle": 240,
+          "imageUrl": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Overcoat — 240° Studio View"
+        },
+        {
+          "angle": 270,
+          "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Overcoat — 270° Studio View"
+        },
+        {
+          "angle": 300,
+          "imageUrl": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Overcoat — 300° Studio View"
+        },
+        {
+          "angle": 330,
+          "imageUrl": "https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Overcoat — 330° Studio View"
+        }
+      ],
+      "fabricUz": "85% Virgin Jun, 15% Kaşmir · Astar: 100% Bemberg Cupro (780 GSM)",
+      "fabricRu": "85% Шерсть Virgin, 15% Кашемир · Подкладка: 100% Купро (780 GSM)",
+      "fabricEn": "85% Virgin Wool, 15% Cashmere · Lining: 100% Bemberg Cupro (780 GSM)",
+      "careUz": "Faqat professional quruq tozalash (Dry Clean Only). Bug'da tik holatda tekislang.",
+      "careRu": "Только деликатная сухая чистка. Отпаривать в вертикальном положении.",
+      "careEn": "Specialist dry clean only. Steam vertically; do not tumble dry.",
+      "origin": "Tashkent Atelier / Italian Cloth",
+      "weightGsm": 780,
+      "fitType": "ARCHITECTURAL",
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "isFeatured": true,
+      "colors": [
+        {
+          "id": "obsidian-black",
+          "nameUz": "Obsidian Qora",
+          "nameRu": "Обсидиановый Черный",
+          "nameEn": "Obsidian Black",
+          "hex": "#141416",
+          "roughness": 0.78,
+          "metalness": 0.05
+        },
+        {
+          "id": "graphite-slate",
+          "nameUz": "Grafit Kulrang",
+          "nameRu": "Графитовый Серый",
+          "nameEn": "Graphite Slate",
+          "hex": "#3A3B3E",
+          "roughness": 0.82,
+          "metalness": 0.04
+        },
+        {
+          "id": "raw-stone",
+          "nameUz": "Sovuq Tosh (Bej)",
+          "nameRu": "Холодный Камень",
+          "nameEn": "Raw Stone",
+          "hex": "#C5BEB3",
+          "roughness": 0.8,
+          "metalness": 0.03
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 5,
+          "chestCm": "112",
+          "shoulderCm": "48",
+          "lengthCm": "118"
+        },
+        {
+          "size": "M",
+          "stock": 9,
+          "chestCm": "118",
+          "shoulderCm": "50",
+          "lengthCm": "121"
+        },
+        {
+          "size": "L",
+          "stock": 7,
+          "chestCm": "124",
+          "shoulderCm": "52",
+          "lengthCm": "124"
+        },
+        {
+          "size": "XL",
+          "stock": 4,
+          "chestCm": "130",
+          "shoulderCm": "54",
+          "lengthCm": "126"
+        }
+      ],
+      "createdAt": "2026-10-15T10:00:00.000Z"
+    },
+    {
+      "id": "prod-axis-blazer",
+      "sku": "NNN-AW26-BL02",
+      "slug": "axis-double-breasted-blazer",
+      "nameUz": "AXIS Ikki Bortli Me'moriy Pijak",
+      "nameRu": "Двубортный архитектурный пиджак AXIS",
+      "nameEn": "AXIS Double-Breasted Architectural Blazer",
+      "subtitleUz": "Super 130s Sovuq jun · Kengaytirilgan yelka konstruksiyasi",
+      "subtitleRu": "Шерсть Super 130s · Структурированная линия плеча",
+      "subtitleEn": "Super 130s Cold Wool · Extended Structured Shoulder",
+      "descriptionUz": "An'anaviy erkaklar kostyumiga NNN BRAND nigohi: ortiqcha detallardan xoli ikki bortli konstruksiya, o'tkir latskanlar va erkin tushuvchi siluet. Kundalik minimalizm va rasmiy oqshomlar uchun ideal muvozanat.",
+      "descriptionRu": "Взгляд NNN BRAND на классический тейлоринг: лаконичная двубортная конструкция без лишних деталей, острые лацканы и свободный крой.",
+      "descriptionEn": "A sharp reinterpretation of formal tailoring. Cut with an elongated torso, peak lapels, and matte tonal horn closure in breathable Super 130s Barathea wool.",
+      "priceUzs": 3150000,
+      "compareAtPriceUzs": 3490000,
+      "categoryId": "cat-tailoring",
+      "categorySlug": "tailoring",
+      "garmentArchetype": "blazer",
+      "model3dUrl": "/api/models/blazer.glb",
+      "has3dModel": true,
+      "gallery": [
+        "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "frames360": [
+        {
+          "angle": 0,
+          "imageUrl": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=1200&q=85",
+          "label": "AXIS Blazer — 0° Studio View"
+        },
+        {
+          "angle": 30,
+          "imageUrl": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1200&q=85",
+          "label": "AXIS Blazer — 30° Studio View"
+        },
+        {
+          "angle": 60,
+          "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=85",
+          "label": "AXIS Blazer — 60° Studio View"
+        },
+        {
+          "angle": 90,
+          "imageUrl": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=1200&q=85",
+          "label": "AXIS Blazer — 90° Studio View"
+        },
+        {
+          "angle": 120,
+          "imageUrl": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1200&q=85",
+          "label": "AXIS Blazer — 120° Studio View"
+        },
+        {
+          "angle": 150,
+          "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=85",
+          "label": "AXIS Blazer — 150° Studio View"
+        },
+        {
+          "angle": 180,
+          "imageUrl": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=1200&q=85",
+          "label": "AXIS Blazer — 180° Studio View"
+        },
+        {
+          "angle": 210,
+          "imageUrl": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1200&q=85",
+          "label": "AXIS Blazer — 210° Studio View"
+        },
+        {
+          "angle": 240,
+          "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=85",
+          "label": "AXIS Blazer — 240° Studio View"
+        },
+        {
+          "angle": 270,
+          "imageUrl": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=1200&q=85",
+          "label": "AXIS Blazer — 270° Studio View"
+        },
+        {
+          "angle": 300,
+          "imageUrl": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1200&q=85",
+          "label": "AXIS Blazer — 300° Studio View"
+        },
+        {
+          "angle": 330,
+          "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=85",
+          "label": "AXIS Blazer — 330° Studio View"
+        }
+      ],
+      "fabricUz": "100% Super 130s Virgin Jun (340 GSM)",
+      "fabricRu": "100% Шерсть Virgin Super 130s (340 GSM)",
+      "fabricEn": "100% Super 130s Virgin Wool Barathea (340 GSM)",
+      "careUz": "Faqat quruq kimyoviy tozalash. Maxsus keng yelkali ilgichda saqlang.",
+      "careRu": "Только химчистка. Хранить на широких плечиках.",
+      "careEn": "Dry clean only. Store on contoured wide-shoulder hanger.",
+      "origin": "Tashkent Atelier",
+      "weightGsm": 340,
+      "fitType": "RELAXED_TAILORED",
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "isFeatured": true,
+      "colors": [
+        {
+          "id": "matte-black",
+          "nameUz": "Mat Qora",
+          "nameRu": "Матовый Черный",
+          "nameEn": "Matte Black",
+          "hex": "#111113",
+          "roughness": 0.72,
+          "metalness": 0.08
+        },
+        {
+          "id": "ash-charcoal",
+          "nameUz": "Ko'mir Kulrang",
+          "nameRu": "Угольный Антрацит",
+          "nameEn": "Anthracite Charcoal",
+          "hex": "#2C2E33",
+          "roughness": 0.75,
+          "metalness": 0.06
+        },
+        {
+          "id": "chalk-ivory",
+          "nameUz": "Bo'r Oq (Ivory)",
+          "nameRu": "Меловой Айвори",
+          "nameEn": "Chalk Ivory",
+          "hex": "#EAE6DF",
+          "roughness": 0.76,
+          "metalness": 0.04
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 4,
+          "chestCm": "106",
+          "shoulderCm": "46",
+          "lengthCm": "76"
+        },
+        {
+          "size": "M",
+          "stock": 8,
+          "chestCm": "112",
+          "shoulderCm": "48",
+          "lengthCm": "78"
+        },
+        {
+          "size": "L",
+          "stock": 6,
+          "chestCm": "118",
+          "shoulderCm": "50",
+          "lengthCm": "80"
+        },
+        {
+          "size": "XL",
+          "stock": 3,
+          "chestCm": "124",
+          "shoulderCm": "52",
+          "lengthCm": "82"
+        }
+      ],
+      "createdAt": "2026-10-18T12:00:00.000Z"
+    },
+    {
+      "id": "prod-form-hoodie-580",
+      "sku": "NNN-AW26-HD03",
+      "slug": "form-heavyweight-hoodie-580gsm",
+      "nameUz": "FORM 580 GSM Og'ir Vaznli Xudi",
+      "nameRu": "Тяжелое худи FORM 580 GSM",
+      "nameEn": "FORM 580 GSM Heavyweight Boxy Hoodie",
+      "subtitleUz": "100% Organik taroqli paxta · Ikki qavatli kapyushon · Bog'ichsiz dizayn",
+      "subtitleRu": "100% Органический хлопок 580 GSM · Двойной капюшон без шнурков",
+      "subtitleEn": "100% Combed Organic Cotton · Double-Layered Hood · Drawcord-Free",
+      "descriptionUz": "580 GSM o'ta zich loopback futer matosidan tayyorlangan me'moriy xudi. O'zbekistonning eng yuqori navli uzun tolali paxtasidan maxsus buyurtma asosida to'qilgan. Shaklini yo'qotmaydigan ikki qavatli kapyushon va yashirin yon cho'ntaklar.",
+      "descriptionRu": "Архитектурное худи из сверхплотного петельного футера 580 GSM из отборного длинноволокнистого узбекского хлопка. Двухслойный стоячий капюшон и скрытые боковые карманы.",
+      "descriptionEn": "Engineered from custom-milled 580 GSM long-staple Uzbek organic cotton fleece. Features a self-standing double-layer hood, drop shoulders, and concealed side-seam pockets.",
+      "priceUzs": 1490000,
+      "categoryId": "cat-knitwear",
+      "categorySlug": "knitwear-jersey",
+      "garmentArchetype": "hoodie",
+      "model3dUrl": "/api/models/hoodie.glb",
+      "has3dModel": true,
+      "gallery": [
+        "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1578681994506-b8f463449011?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "frames360": [
+        {
+          "angle": 0,
+          "imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=1200&q=85",
+          "label": "FORM 580 Hoodie — 0° Studio View"
+        },
+        {
+          "angle": 30,
+          "imageUrl": "https://images.unsplash.com/photo-1578681994506-b8f463449011?auto=format&fit=crop&w=1200&q=85",
+          "label": "FORM 580 Hoodie — 30° Studio View"
+        },
+        {
+          "angle": 60,
+          "imageUrl": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=1200&q=85",
+          "label": "FORM 580 Hoodie — 60° Studio View"
+        },
+        {
+          "angle": 90,
+          "imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=1200&q=85",
+          "label": "FORM 580 Hoodie — 90° Studio View"
+        },
+        {
+          "angle": 120,
+          "imageUrl": "https://images.unsplash.com/photo-1578681994506-b8f463449011?auto=format&fit=crop&w=1200&q=85",
+          "label": "FORM 580 Hoodie — 120° Studio View"
+        },
+        {
+          "angle": 150,
+          "imageUrl": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=1200&q=85",
+          "label": "FORM 580 Hoodie — 150° Studio View"
+        },
+        {
+          "angle": 180,
+          "imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=1200&q=85",
+          "label": "FORM 580 Hoodie — 180° Studio View"
+        },
+        {
+          "angle": 210,
+          "imageUrl": "https://images.unsplash.com/photo-1578681994506-b8f463449011?auto=format&fit=crop&w=1200&q=85",
+          "label": "FORM 580 Hoodie — 210° Studio View"
+        },
+        {
+          "angle": 240,
+          "imageUrl": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=1200&q=85",
+          "label": "FORM 580 Hoodie — 240° Studio View"
+        },
+        {
+          "angle": 270,
+          "imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=1200&q=85",
+          "label": "FORM 580 Hoodie — 270° Studio View"
+        },
+        {
+          "angle": 300,
+          "imageUrl": "https://images.unsplash.com/photo-1578681994506-b8f463449011?auto=format&fit=crop&w=1200&q=85",
+          "label": "FORM 580 Hoodie — 300° Studio View"
+        },
+        {
+          "angle": 330,
+          "imageUrl": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=1200&q=85",
+          "label": "FORM 580 Hoodie — 330° Studio View"
+        }
+      ],
+      "fabricUz": "100% O'zbekiston Uzun Tolali Organik Paxtasi (580 GSM Loopback)",
+      "fabricRu": "100% Узбекский длинноволокнистый органический хлопок (580 GSM)",
+      "fabricEn": "100% Long-Staple Uzbek Organic Cotton Loopback (580 GSM)",
+      "careUz": "30°C da teskari ag'darib yuving. Gorizontal holatda quriting.",
+      "careRu": "Деликатная стирка при 30°C наизнанку. Сушить горизонтально.",
+      "careEn": "Machine wash cold inside out at 30°C. Dry flat.",
+      "origin": "Tashkent Atelier — 100% Uzbek Cotton",
+      "weightGsm": 580,
+      "fitType": "OVERSIZED",
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "isFeatured": true,
+      "colors": [
+        {
+          "id": "washed-obsidian",
+          "nameUz": "Obsidian Qora",
+          "nameRu": "Обсидиановый Черный",
+          "nameEn": "Washed Obsidian",
+          "hex": "#18181B",
+          "roughness": 0.88,
+          "metalness": 0.02
+        },
+        {
+          "id": "concrete-ash",
+          "nameUz": "Beton Kulrang",
+          "nameRu": "Бетонный Серый",
+          "nameEn": "Concrete Ash",
+          "hex": "#71717A",
+          "roughness": 0.87,
+          "metalness": 0.02
+        },
+        {
+          "id": "optic-alabaster",
+          "nameUz": "Alabaster Oq",
+          "nameRu": "Алебастровый Белый",
+          "nameEn": "Optic Alabaster",
+          "hex": "#F2F0EB",
+          "roughness": 0.86,
+          "metalness": 0.02
+        }
+      ],
+      "sizes": [
+        {
+          "size": "XS",
+          "stock": 6,
+          "chestCm": "116",
+          "shoulderCm": "54",
+          "lengthCm": "67"
+        },
+        {
+          "size": "S",
+          "stock": 12,
+          "chestCm": "122",
+          "shoulderCm": "56",
+          "lengthCm": "69"
+        },
+        {
+          "size": "M",
+          "stock": 14,
+          "chestCm": "128",
+          "shoulderCm": "58",
+          "lengthCm": "71"
+        },
+        {
+          "size": "L",
+          "stock": 11,
+          "chestCm": "134",
+          "shoulderCm": "60",
+          "lengthCm": "73"
+        },
+        {
+          "size": "XL",
+          "stock": 5,
+          "chestCm": "140",
+          "shoulderCm": "62",
+          "lengthCm": "75"
+        }
+      ],
+      "createdAt": "2026-10-20T09:00:00.000Z"
+    },
+    {
+      "id": "prod-kinetic-overshirt",
+      "sku": "NNN-AW26-OS04",
+      "slug": "kinetic-technical-wool-overshirt",
+      "nameUz": "KINETIC Strukturali Overshirt Ko'ylak-Kurtka",
+      "nameRu": "Структурный овершот KINETIC из технической шерсти",
+      "nameEn": "KINETIC Technical Wool Overshirt",
+      "subtitleUz": "Suv yuqtirmaydigan gabardin-jun · Yashirin magnitli planka",
+      "subtitleRu": "Водоотталкивающий габардин · Скрытая планка",
+      "subtitleEn": "Water-Repellent Gabardine Wool · Concealed Placket",
+      "descriptionUz": "Ko'ylak va yengil kurtka o'rtasidagi universal qatlam. Zich to'qilgan gabardin matosi shamol va namlikdan himoya qiladi, ko'krak qismidagi ikkita ichki geometrik cho'ntak esa minimalist qiyofani to'ldiradi.",
+      "descriptionRu": "Универсальный слой между рубашкой и курткой. Плотный габардин защищает от ветра, а скрытая фурнитура сохраняет абсолютную чистоту линий.",
+      "descriptionEn": "A hybrid architectural layer bridging shirt and jacket. Constructed from water-repellent technical wool gabardine with a boxy hem and matte tonal snap closures.",
+      "priceUzs": 1850000,
+      "categoryId": "cat-outerwear",
+      "categorySlug": "outerwear",
+      "garmentArchetype": "overshirt",
+      "model3dUrl": "/api/models/overshirt.glb",
+      "has3dModel": true,
+      "gallery": [
+        "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1516826957135-700dedea698c?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "frames360": [
+        {
+          "angle": 0,
+          "imageUrl": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=1200&q=85",
+          "label": "KINETIC Overshirt — 0° Studio View"
+        },
+        {
+          "angle": 30,
+          "imageUrl": "https://images.unsplash.com/photo-1516826957135-700dedea698c?auto=format&fit=crop&w=1200&q=85",
+          "label": "KINETIC Overshirt — 30° Studio View"
+        },
+        {
+          "angle": 60,
+          "imageUrl": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1200&q=85",
+          "label": "KINETIC Overshirt — 60° Studio View"
+        },
+        {
+          "angle": 90,
+          "imageUrl": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=1200&q=85",
+          "label": "KINETIC Overshirt — 90° Studio View"
+        },
+        {
+          "angle": 120,
+          "imageUrl": "https://images.unsplash.com/photo-1516826957135-700dedea698c?auto=format&fit=crop&w=1200&q=85",
+          "label": "KINETIC Overshirt — 120° Studio View"
+        },
+        {
+          "angle": 150,
+          "imageUrl": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1200&q=85",
+          "label": "KINETIC Overshirt — 150° Studio View"
+        },
+        {
+          "angle": 180,
+          "imageUrl": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=1200&q=85",
+          "label": "KINETIC Overshirt — 180° Studio View"
+        },
+        {
+          "angle": 210,
+          "imageUrl": "https://images.unsplash.com/photo-1516826957135-700dedea698c?auto=format&fit=crop&w=1200&q=85",
+          "label": "KINETIC Overshirt — 210° Studio View"
+        },
+        {
+          "angle": 240,
+          "imageUrl": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1200&q=85",
+          "label": "KINETIC Overshirt — 240° Studio View"
+        },
+        {
+          "angle": 270,
+          "imageUrl": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=1200&q=85",
+          "label": "KINETIC Overshirt — 270° Studio View"
+        },
+        {
+          "angle": 300,
+          "imageUrl": "https://images.unsplash.com/photo-1516826957135-700dedea698c?auto=format&fit=crop&w=1200&q=85",
+          "label": "KINETIC Overshirt — 300° Studio View"
+        },
+        {
+          "angle": 330,
+          "imageUrl": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1200&q=85",
+          "label": "KINETIC Overshirt — 330° Studio View"
+        }
+      ],
+      "fabricUz": "70% Virgin Jun, 30% Texnik Poliamid (410 GSM)",
+      "fabricRu": "70% Шерсть Virgin, 30% Технический полиамид (410 GSM)",
+      "fabricEn": "70% Virgin Wool, 30% Technical Polyamide Gabardine (410 GSM)",
+      "careUz": "Quruq tozalash yoki 30°C da juda ehtiyotkor qo'lda yuvish.",
+      "careRu": "Сухая чистка или бережная ручная стирка при 30°C.",
+      "careEn": "Dry clean or gentle cold hand wash.",
+      "origin": "Tashkent Atelier",
+      "weightGsm": 410,
+      "fitType": "RELAXED_TAILORED",
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "isFeatured": true,
+      "colors": [
+        {
+          "id": "carbon-black",
+          "nameUz": "Karbon Qora",
+          "nameRu": "Карбоновый Черный",
+          "nameEn": "Carbon Black",
+          "hex": "#151618",
+          "roughness": 0.65,
+          "metalness": 0.12
+        },
+        {
+          "id": "titanium-grey",
+          "nameUz": "Titan Kulrang",
+          "nameRu": "Титановый Серый",
+          "nameEn": "Titanium Grey",
+          "hex": "#52545A",
+          "roughness": 0.68,
+          "metalness": 0.1
+        },
+        {
+          "id": "bone-white",
+          "nameUz": "Suyak Oq",
+          "nameRu": "Костяной Белый",
+          "nameEn": "Bone White",
+          "hex": "#E5E2DC",
+          "roughness": 0.7,
+          "metalness": 0.06
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 7,
+          "chestCm": "114",
+          "shoulderCm": "49",
+          "lengthCm": "73"
+        },
+        {
+          "size": "M",
+          "stock": 10,
+          "chestCm": "120",
+          "shoulderCm": "51",
+          "lengthCm": "75"
+        },
+        {
+          "size": "L",
+          "stock": 8,
+          "chestCm": "126",
+          "shoulderCm": "53",
+          "lengthCm": "77"
+        },
+        {
+          "size": "XL",
+          "stock": 4,
+          "chestCm": "132",
+          "shoulderCm": "55",
+          "lengthCm": "79"
+        }
+      ],
+      "createdAt": "2026-10-22T14:00:00.000Z"
+    },
+    {
+      "id": "prod-column-trousers",
+      "sku": "NNN-AW26-TR05",
+      "slug": "column-double-pleated-trousers",
+      "nameUz": "COLUMN Ikki Taxlamli Keng Shim",
+      "nameRu": "Широкие брюки COLUMN с двойными защипами",
+      "nameEn": "COLUMN Double-Pleated Wide Trousers",
+      "subtitleUz": "Yuqori bel · Harakatda silliq oqimli draplama",
+      "subtitleRu": "Высокая посадка · Безупречная драпировка в движении",
+      "subtitleEn": "High-Rise Waist · Fluid Architectural Drape",
+      "descriptionUz": "Old qismidagi chuqur ikki qavatli taxlamlar (double pleats) tufayli harakat vaqtida ustun kabi to'g'ri chiziq hosil qiluvchi shim. AXIS pijak va FORM xudi bilan mukammal uyg'unlashadi.",
+      "descriptionRu": "Брюки с глубокими двойными защипами, создающие монументальную вертикаль при ходьбе. Идеально сочетаются с пиджаком AXIS и худи FORM.",
+      "descriptionEn": "Tailored with deep double front pleats that create a clean vertical column silhouette. Finished with internal waistband grip, horn button tab, and blind-stitched cuffs.",
+      "priceUzs": 1690000,
+      "categoryId": "cat-tailoring",
+      "categorySlug": "tailoring",
+      "garmentArchetype": "trousers",
+      "model3dUrl": "/api/models/trousers.glb",
+      "has3dModel": true,
+      "gallery": [
+        "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "frames360": [
+        {
+          "angle": 0,
+          "imageUrl": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1200&q=85",
+          "label": "COLUMN Trousers — 0° Studio View"
+        },
+        {
+          "angle": 30,
+          "imageUrl": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=1200&q=85",
+          "label": "COLUMN Trousers — 30° Studio View"
+        },
+        {
+          "angle": 60,
+          "imageUrl": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?auto=format&fit=crop&w=1200&q=85",
+          "label": "COLUMN Trousers — 60° Studio View"
+        },
+        {
+          "angle": 90,
+          "imageUrl": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1200&q=85",
+          "label": "COLUMN Trousers — 90° Studio View"
+        },
+        {
+          "angle": 120,
+          "imageUrl": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=1200&q=85",
+          "label": "COLUMN Trousers — 120° Studio View"
+        },
+        {
+          "angle": 150,
+          "imageUrl": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?auto=format&fit=crop&w=1200&q=85",
+          "label": "COLUMN Trousers — 150° Studio View"
+        },
+        {
+          "angle": 180,
+          "imageUrl": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1200&q=85",
+          "label": "COLUMN Trousers — 180° Studio View"
+        },
+        {
+          "angle": 210,
+          "imageUrl": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=1200&q=85",
+          "label": "COLUMN Trousers — 210° Studio View"
+        },
+        {
+          "angle": 240,
+          "imageUrl": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?auto=format&fit=crop&w=1200&q=85",
+          "label": "COLUMN Trousers — 240° Studio View"
+        },
+        {
+          "angle": 270,
+          "imageUrl": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1200&q=85",
+          "label": "COLUMN Trousers — 270° Studio View"
+        },
+        {
+          "angle": 300,
+          "imageUrl": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=1200&q=85",
+          "label": "COLUMN Trousers — 300° Studio View"
+        },
+        {
+          "angle": 330,
+          "imageUrl": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?auto=format&fit=crop&w=1200&q=85",
+          "label": "COLUMN Trousers — 330° Studio View"
+        }
+      ],
+      "fabricUz": "100% Virgin Jun Gabardin (330 GSM)",
+      "fabricRu": "100% Шерстяной габардин Virgin (330 GSM)",
+      "fabricEn": "100% Virgin Wool Cavalry Twill (330 GSM)",
+      "careUz": "Quruq tozalash. Shim press-dazmolida chizig'i bo'ylab dazmollang.",
+      "careRu": "Сухая чистка. Гладить через влажную ткань вдоль стрелок.",
+      "careEn": "Dry clean only. Press along center crease.",
+      "origin": "Tashkent Atelier",
+      "weightGsm": 330,
+      "fitType": "RELAXED_TAILORED",
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isFeatured": true,
+      "colors": [
+        {
+          "id": "jet-black",
+          "nameUz": "To'q Qora",
+          "nameRu": "Глубокий Черный",
+          "nameEn": "Jet Black",
+          "hex": "#121214",
+          "roughness": 0.74,
+          "metalness": 0.06
+        },
+        {
+          "id": "smoke-grey",
+          "nameUz": "Tutun Kulrang",
+          "nameRu": "Дымчатый Серый",
+          "nameEn": "Smoke Grey",
+          "hex": "#4B4D52",
+          "roughness": 0.76,
+          "metalness": 0.05
+        }
+      ],
+      "sizes": [
+        {
+          "size": "XS",
+          "stock": 3,
+          "chestCm": "76 (Bel)",
+          "shoulderCm": "102 (Son)",
+          "lengthCm": "106"
+        },
+        {
+          "size": "S",
+          "stock": 9,
+          "chestCm": "80 (Bel)",
+          "shoulderCm": "106 (Son)",
+          "lengthCm": "108"
+        },
+        {
+          "size": "M",
+          "stock": 11,
+          "chestCm": "84 (Bel)",
+          "shoulderCm": "110 (Son)",
+          "lengthCm": "110"
+        },
+        {
+          "size": "L",
+          "stock": 8,
+          "chestCm": "88 (Bel)",
+          "shoulderCm": "114 (Son)",
+          "lengthCm": "112"
+        },
+        {
+          "size": "XL",
+          "stock": 5,
+          "chestCm": "92 (Bel)",
+          "shoulderCm": "118 (Son)",
+          "lengthCm": "114"
+        }
+      ],
+      "createdAt": "2026-10-12T11:00:00.000Z"
+    },
+    {
+      "id": "prod-atelier-merino-knit",
+      "sku": "NNN-AW26-KN06",
+      "slug": "atelier-merino-mock-neck-knit",
+      "nameUz": "ATELIER Merinos Junli Mock-Neck Trikotaj",
+      "nameRu": "Свитер ATELIER из мериносовой шерсти с высоким воротом",
+      "nameEn": "ATELIER Extra-Fine Merino Mock-Neck Knit",
+      "subtitleUz": "19.5 mikron Avstraliya merinosi · Choklarsiz Wholegarment to'qima",
+      "subtitleRu": "19.5 микрон австралийский меринос · Бесшовная вязка",
+      "subtitleEn": "19.5 Micron Extra-Fine Merino · Seamless Rib Architecture",
+      "descriptionUz": "Teri bilan bevosita aloqada maksimal yumshoqlik beruvchi 19.5 mikron merinos junidan to'qilgan. Baland mock-neck yoqasi pijak yoki palto ostida ideal vertikal urg'u yaratadi.",
+      "descriptionRu": "Связан из тонкорунной мериносовой шерсти 19.5 микрон. Высокий ворот-стойка создает чистый архитектурный акцент под пиджаком или пальто.",
+      "descriptionEn": "Knitted in 12-gauge extra-fine merino wool with architectural shoulder fashioning and a structured mock-neck collar that holds its form all day.",
+      "priceUzs": 1350000,
+      "categoryId": "cat-knitwear",
+      "categorySlug": "knitwear-jersey",
+      "garmentArchetype": "turtleneck",
+      "model3dUrl": "/api/models/turtleneck.glb",
+      "has3dModel": true,
+      "gallery": [
+        "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "frames360": [
+        {
+          "angle": 0,
+          "imageUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1200&q=85",
+          "label": "ATELIER Merino Knit — 0° Studio View"
+        },
+        {
+          "angle": 30,
+          "imageUrl": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1200&q=85",
+          "label": "ATELIER Merino Knit — 30° Studio View"
+        },
+        {
+          "angle": 60,
+          "imageUrl": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=1200&q=85",
+          "label": "ATELIER Merino Knit — 60° Studio View"
+        },
+        {
+          "angle": 90,
+          "imageUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1200&q=85",
+          "label": "ATELIER Merino Knit — 90° Studio View"
+        },
+        {
+          "angle": 120,
+          "imageUrl": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1200&q=85",
+          "label": "ATELIER Merino Knit — 120° Studio View"
+        },
+        {
+          "angle": 150,
+          "imageUrl": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=1200&q=85",
+          "label": "ATELIER Merino Knit — 150° Studio View"
+        },
+        {
+          "angle": 180,
+          "imageUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1200&q=85",
+          "label": "ATELIER Merino Knit — 180° Studio View"
+        },
+        {
+          "angle": 210,
+          "imageUrl": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1200&q=85",
+          "label": "ATELIER Merino Knit — 210° Studio View"
+        },
+        {
+          "angle": 240,
+          "imageUrl": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=1200&q=85",
+          "label": "ATELIER Merino Knit — 240° Studio View"
+        },
+        {
+          "angle": 270,
+          "imageUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1200&q=85",
+          "label": "ATELIER Merino Knit — 270° Studio View"
+        },
+        {
+          "angle": 300,
+          "imageUrl": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1200&q=85",
+          "label": "ATELIER Merino Knit — 300° Studio View"
+        },
+        {
+          "angle": 330,
+          "imageUrl": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=1200&q=85",
+          "label": "ATELIER Merino Knit — 330° Studio View"
+        }
+      ],
+      "fabricUz": "100% Extra-Fine Merinos Juni (360 GSM)",
+      "fabricRu": "100% Экстрафайн шерсть мериноса (360 GSM)",
+      "fabricEn": "100% Extra-Fine Merino Wool (360 GSM)",
+      "careUz": "Jun uchun maxsus vositada sovuq suvda qo'lda yuving.",
+      "careRu": "Ручная стирка в прохладной воде со средством для шерсти.",
+      "careEn": "Hand wash cold with wool detergent. Dry flat.",
+      "origin": "Tashkent Atelier",
+      "weightGsm": 360,
+      "fitType": "REGULAR",
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "isFeatured": false,
+      "colors": [
+        {
+          "id": "obsidian",
+          "nameUz": "Obsidian Qora",
+          "nameRu": "Обсидиановый Черный",
+          "nameEn": "Obsidian Black",
+          "hex": "#161618",
+          "roughness": 0.85,
+          "metalness": 0.02
+        },
+        {
+          "id": "pewter",
+          "nameUz": "Kumushrang Kul",
+          "nameRu": "Оловянный Серый",
+          "nameEn": "Pewter Grey",
+          "hex": "#8E9096",
+          "roughness": 0.84,
+          "metalness": 0.03
+        },
+        {
+          "id": "warm-ivory",
+          "nameUz": "Fil Suyagi (Ivory)",
+          "nameRu": "Теплый Айвори",
+          "nameEn": "Warm Ivory",
+          "hex": "#EFECE6",
+          "roughness": 0.85,
+          "metalness": 0.02
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 8,
+          "chestCm": "102",
+          "shoulderCm": "44",
+          "lengthCm": "67"
+        },
+        {
+          "size": "M",
+          "stock": 14,
+          "chestCm": "108",
+          "shoulderCm": "46",
+          "lengthCm": "69"
+        },
+        {
+          "size": "L",
+          "stock": 10,
+          "chestCm": "114",
+          "shoulderCm": "48",
+          "lengthCm": "71"
+        },
+        {
+          "size": "XL",
+          "stock": 6,
+          "chestCm": "120",
+          "shoulderCm": "50",
+          "lengthCm": "73"
+        }
+      ],
+      "createdAt": "2026-10-25T16:00:00.000Z"
+    },
+    {
+      "id": "prod-storm-gabardine-trench",
+      "sku": "NNN-AW26-TC07",
+      "slug": "storm-shield-gabardine-trench",
+      "nameUz": "STORM-SHIELD Suv O'tkazmas Gabardin Plash",
+      "nameRu": "Водонепроницаемый габардиновый тренч STORM-SHIELD",
+      "nameEn": "STORM-SHIELD Technical Gabardine Trench",
+      "subtitleUz": "360° Fotostudiya seriyasi · 3 qavatli membrana himoyasi",
+      "subtitleRu": "360° Фото-секвенция · Трехслойная мембранная защита",
+      "subtitleEn": "360° Studio Sequence Edition · 3-Layer Membrane Protection",
+      "descriptionUz": "Shamol va yomg'irdan to'liq himoya qiluvchi 3-qavatli paxta-gabardin plash. Ushbu mahsulot 360° studiya kadrlar ketma-ketligi rejimida (3D model mavjud bo'lmaganda avtomatik 360° fallback ishlashini namoyish etish uchun) hamda Admin panel orqali 3D yoqish imkoniyati bilan taqdim etilgan.",
+      "descriptionRu": "Плащ-тренч из трехслойного хлопкового габардина с защитой от штормового ветра и дождя. Демонстрирует интерактивный 360° секвенсор кадров.",
+      "descriptionEn": "Engineered from high-density triple-woven cotton gabardine with storm flap and geometric belt. Configured with full 360-degree studio sequence fallback.",
+      "priceUzs": 3890000,
+      "compareAtPriceUzs": 4200000,
+      "categoryId": "cat-outerwear",
+      "categorySlug": "outerwear",
+      "garmentArchetype": "trench",
+      "model3dUrl": "",
+      "has3dModel": false,
+      "gallery": [
+        "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "frames360": [
+        {
+          "angle": 0,
+          "imageUrl": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1200&q=85",
+          "label": "STORM-SHIELD Trench — 0° Studio View"
+        },
+        {
+          "angle": 30,
+          "imageUrl": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1200&q=85",
+          "label": "STORM-SHIELD Trench — 30° Studio View"
+        },
+        {
+          "angle": 60,
+          "imageUrl": "https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?auto=format&fit=crop&w=1200&q=85",
+          "label": "STORM-SHIELD Trench — 60° Studio View"
+        },
+        {
+          "angle": 90,
+          "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=85",
+          "label": "STORM-SHIELD Trench — 90° Studio View"
+        },
+        {
+          "angle": 120,
+          "imageUrl": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1200&q=85",
+          "label": "STORM-SHIELD Trench — 120° Studio View"
+        },
+        {
+          "angle": 150,
+          "imageUrl": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1200&q=85",
+          "label": "STORM-SHIELD Trench — 150° Studio View"
+        },
+        {
+          "angle": 180,
+          "imageUrl": "https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?auto=format&fit=crop&w=1200&q=85",
+          "label": "STORM-SHIELD Trench — 180° Studio View"
+        },
+        {
+          "angle": 210,
+          "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=85",
+          "label": "STORM-SHIELD Trench — 210° Studio View"
+        },
+        {
+          "angle": 240,
+          "imageUrl": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1200&q=85",
+          "label": "STORM-SHIELD Trench — 240° Studio View"
+        },
+        {
+          "angle": 270,
+          "imageUrl": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1200&q=85",
+          "label": "STORM-SHIELD Trench — 270° Studio View"
+        },
+        {
+          "angle": 300,
+          "imageUrl": "https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?auto=format&fit=crop&w=1200&q=85",
+          "label": "STORM-SHIELD Trench — 300° Studio View"
+        },
+        {
+          "angle": 330,
+          "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=85",
+          "label": "STORM-SHIELD Trench — 330° Studio View"
+        }
+      ],
+      "fabricUz": "100% Yuqori Zichlikdagi Suv O'tkazmas Paxta Gabardin (490 GSM)",
+      "fabricRu": "100% Водоотталкивающий хлопковый габардин высокой плотности (490 GSM)",
+      "fabricEn": "100% High-Density Water-Repellent Cotton Gabardine (490 GSM)",
+      "careUz": "Faqat maxsus quruq tozalash. Suv o'tkazmas qoplamani tiklash mumkin.",
+      "careRu": "Только специализированная химчистка.",
+      "careEn": "Specialist dry clean only. Re-proof DWR coating annually.",
+      "origin": "Tashkent / Milan",
+      "weightGsm": 490,
+      "fitType": "OVERSIZED",
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isFeatured": false,
+      "colors": [
+        {
+          "id": "mineral-stone",
+          "nameUz": "Mineral Kulrang-Bej",
+          "nameRu": "Минеральный Камень",
+          "nameEn": "Mineral Stone",
+          "hex": "#9E9A91",
+          "roughness": 0.62,
+          "metalness": 0.08
+        },
+        {
+          "id": "pitch-black",
+          "nameUz": "Qatron Qora",
+          "nameRu": "Смоляной Черный",
+          "nameEn": "Pitch Black",
+          "hex": "#141517",
+          "roughness": 0.6,
+          "metalness": 0.1
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 4,
+          "chestCm": "118",
+          "shoulderCm": "50",
+          "lengthCm": "120"
+        },
+        {
+          "size": "M",
+          "stock": 6,
+          "chestCm": "124",
+          "shoulderCm": "52",
+          "lengthCm": "123"
+        },
+        {
+          "size": "L",
+          "stock": 5,
+          "chestCm": "130",
+          "shoulderCm": "54",
+          "lengthCm": "126"
+        }
+      ],
+      "createdAt": "2026-10-08T10:00:00.000Z"
+    },
+    {
+      "id": "prod-monolith-leather-tote",
+      "sku": "NNN-AW26-BG08",
+      "slug": "monolith-architectural-leather-weekender",
+      "nameUz": "MONOLITH Tabiiy Charm Weekender Sumka",
+      "nameRu": "Кожаная дорожная сумка-тоут MONOLITH",
+      "nameEn": "MONOLITH Architectural Leather Weekender",
+      "subtitleUz": "100% Full-Grain Toskana charmi · Cho'tkalangan po'lat furnitura",
+      "subtitleRu": "100% Натуральная тосканская кожа Full-Grain · Стальная фурнитура",
+      "subtitleEn": "100% Full-Grain Tuscan Calfskin · Brushed Steel Hardware",
+      "descriptionUz": "Geometrik qirralarga ega me'moriy charm sumka. 16 dyuymli noutbuk bo'lmasi, YKK Excella metall zamogi va yelkaga taqish uchun olinadigan kamar bilan jihozlangan.",
+      "descriptionRu": "Геометрическая сумка из плотной телячьей кожи растительного дубления. Вмещает ноутбук 16 дюймов и все необходимое для деловых поездок.",
+      "descriptionEn": "Sculpted from vegetable-tanned full-grain calfskin with reinforced architectural gussets, brushed stainless steel hardware, and a padded 16-inch laptop compartment.",
+      "priceUzs": 2950000,
+      "categoryId": "cat-accessories",
+      "categorySlug": "leather-objects",
+      "garmentArchetype": "tote",
+      "model3dUrl": "/api/models/tote.glb",
+      "has3dModel": true,
+      "gallery": [
+        "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "frames360": [
+        {
+          "angle": 0,
+          "imageUrl": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Leather Tote — 0° Studio View"
+        },
+        {
+          "angle": 30,
+          "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Leather Tote — 30° Studio View"
+        },
+        {
+          "angle": 60,
+          "imageUrl": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Leather Tote — 60° Studio View"
+        },
+        {
+          "angle": 90,
+          "imageUrl": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Leather Tote — 90° Studio View"
+        },
+        {
+          "angle": 120,
+          "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Leather Tote — 120° Studio View"
+        },
+        {
+          "angle": 150,
+          "imageUrl": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Leather Tote — 150° Studio View"
+        },
+        {
+          "angle": 180,
+          "imageUrl": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Leather Tote — 180° Studio View"
+        },
+        {
+          "angle": 210,
+          "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Leather Tote — 210° Studio View"
+        },
+        {
+          "angle": 240,
+          "imageUrl": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Leather Tote — 240° Studio View"
+        },
+        {
+          "angle": 270,
+          "imageUrl": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Leather Tote — 270° Studio View"
+        },
+        {
+          "angle": 300,
+          "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Leather Tote — 300° Studio View"
+        },
+        {
+          "angle": 330,
+          "imageUrl": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=1200&q=85",
+          "label": "MONOLITH Leather Tote — 330° Studio View"
+        }
+      ],
+      "fabricUz": "100% Full-Grain Tabiiy Buzoq Charmi · Ichki astar: Mikro-zamsh",
+      "fabricRu": "100% Натуральная телячья кожа Full-Grain · Подкладка: микрозамша",
+      "fabricEn": "100% Vegetable-Tanned Full-Grain Calfskin · Micro-Suede Lining",
+      "careUz": "Maxsus charm balzami bilan yiliga 2 marta parvarishlang.",
+      "careRu": "Обрабатывать бальзамом для натуральной кожи 2 раза в год.",
+      "careEn": "Condition with neutral leather balm twice yearly; store in dust bag.",
+      "origin": "Italian Leather / Tashkent Craft",
+      "weightGsm": 1100,
+      "fitType": "ARCHITECTURAL",
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "isFeatured": true,
+      "colors": [
+        {
+          "id": "onyx-leather",
+          "nameUz": "Oniks Qora Charm",
+          "nameRu": "Ониксовая Кожа",
+          "nameEn": "Onyx Calfskin",
+          "hex": "#121213",
+          "roughness": 0.35,
+          "metalness": 0.18
+        },
+        {
+          "id": "espresso-ash",
+          "nameUz": "To'q Grafit Charm",
+          "nameRu": "Темный Графит",
+          "nameEn": "Dark Graphite Leather",
+          "hex": "#2F3034",
+          "roughness": 0.38,
+          "metalness": 0.15
+        }
+      ],
+      "sizes": [
+        {
+          "size": "L",
+          "stock": 9,
+          "chestCm": "46 sm (Eni)",
+          "shoulderCm": "18 sm (Chuqurligi)",
+          "lengthCm": "34 sm (Bo'yi)"
+        }
+      ],
+      "createdAt": "2026-10-28T15:00:00.000Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-outerwear",
+      "slug": "outerwear",
+      "nameUz": "Ustki kiyimlar",
+      "nameRu": "Верхняя одежда",
+      "nameEn": "Outerwear",
+      "descriptionUz": "Me'moriy siluetga ega kaşmir palto, plash va strukturali kurtkalar.",
+      "descriptionRu": "Архитектурные пальто из шерсти и кашемира, тренчи и структурные куртки.",
+      "descriptionEn": "Architectural wool-cashmere overcoats, gabardine trenches, and structured jackets.",
+      "heroImage": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1400&q=85",
+      "featured": true
+    },
+    {
+      "id": "cat-tailoring",
+      "slug": "tailoring",
+      "nameUz": "Kostyum va Pijaklar",
+      "nameRu": "Костюмы и Пиджаки",
+      "nameEn": "Tailoring",
+      "descriptionUz": "Zamonaviy kengaytirilgan yelka chizig'i va italyan jun matosidan tikilgan pijak hamda shimlar.",
+      "descriptionRu": "Пиджаки и брюки из итальянской шерсти с современной линией плеча.",
+      "descriptionEn": "Precision-cut blazers and pleated trousers crafted from Italian virgin wool.",
+      "heroImage": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=1400&q=85",
+      "featured": true
+    },
+    {
+      "id": "cat-knitwear",
+      "slug": "knitwear-jersey",
+      "nameUz": "Trikotaj va Xudi",
+      "nameRu": "Трикотаж и Худи",
+      "nameEn": "Knitwear & Jersey",
+      "descriptionUz": "580 GSM zichlikdagi og'ir paxta xudilar va merinos junidan vodolazkalar.",
+      "descriptionRu": "Тяжелые худи плотностью 580 GSM и трикотаж из тонкорунного мериноса.",
+      "descriptionEn": "580 GSM heavyweight loopback jersey hoodies and fine extra-fine merino knits.",
+      "heroImage": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=1400&q=85",
+      "featured": true
+    },
+    {
+      "id": "cat-accessories",
+      "slug": "leather-objects",
+      "nameUz": "Charm Aksessuarlar",
+      "nameRu": "Кожаные Изделия",
+      "nameEn": "Leather Objects",
+      "descriptionUz": "Minimalist geometrik dizayndagi tabiiy charm sumkalar va aksessuarlar.",
+      "descriptionRu": "Минималистичные дорожные сумки и аксессуары из натуральной кожи полной выработки.",
+      "descriptionEn": "Minimalist geometric bags and accessories in full-grain vegetable-tanned leather.",
+      "heroImage": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1400&q=85",
+      "featured": false
+    }
+  ],
+  "discounts": [
+    {
+      "id": "disc-1",
+      "code": "NNN10",
+      "type": "PERCENTAGE",
+      "value": 10,
+      "minOrderUzs": 1000000,
+      "active": true,
+      "usageCount": 19,
+      "maxUses": 500,
+      "descriptionUz": "Birinchi buyurtma uchun 10% chegirma (min. 1 000 000 UZS)",
+      "descriptionRu": "Скидка 10% на первый заказ (от 1 000 000 UZS)",
+      "descriptionEn": "10% welcome privilege on orders over 1,000,000 UZS"
+    },
+    {
+      "id": "disc-2",
+      "code": "MONOLITH300",
+      "type": "FIXED_UZS",
+      "value": 300000,
+      "minOrderUzs": 3000000,
+      "active": true,
+      "usageCount": 7,
+      "maxUses": 200,
+      "descriptionUz": "3 000 000 UZS dan yuqori xaridlar uchun 300 000 UZS chegirma",
+      "descriptionRu": "Скидка 300 000 UZS при заказе от 3 000 000 UZS",
+      "descriptionEn": "300,000 UZS privilege on orders above 3,000,000 UZS"
+    },
+    {
+      "id": "disc-3",
+      "code": "TASHKENTVIP",
+      "type": "PERCENTAGE",
+      "value": 15,
+      "minOrderUzs": 4500000,
+      "active": true,
+      "usageCount": 4,
+      "maxUses": 100,
+      "descriptionUz": "VIP mijozlar uchun 15% maxsus chegirma",
+      "descriptionRu": "Специальная VIP-скидка 15%",
+      "descriptionEn": "15% Private Client Atelier Privilege"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1793774462775",
+      "orderNumber": "NNN-57011",
+      "customerName": "Azizbek Rahimov",
+      "customerPhone": "+998 90 123 45 67",
+      "customerEmail": "azizbek@nnn.uz",
+      "region": "Toshkent shahri",
+      "district": "Mirobod tumani",
+      "addressLine": "Taras Shevchenko 21",
+      "deliveryMethod": "TASHKENT_EXPRESS",
+      "shippingCostUzs": 45000,
+      "subtotalUzs": 1490000,
+      "discountCode": "NNN10",
+      "discountAmountUzs": 149000,
+      "totalUzs": 1386000,
+      "paymentMethod": "CLICK",
+      "paymentStatus": "PENDING_MERCHANT",
+      "status": "AWAITING_PAYMENT",
+      "telegramNotified": true,
+      "items": [
+        {
+          "productId": "prod-form-hoodie-580",
+          "sku": "NNN-AW26-HD03",
+          "slug": "form-heavyweight-hoodie-580gsm",
+          "nameUz": "FORM 580 GSM Og'ir Vaznli Xudi",
+          "nameRu": "Тяжелое худи FORM 580 GSM",
+          "nameEn": "FORM 580 GSM Heavyweight Boxy Hoodie",
+          "colorId": "washed-obsidian",
+          "colorName": "Obsidian Qora",
+          "colorHex": "#18181B",
+          "size": "M",
+          "quantity": 1,
+          "unitPriceUzs": 1490000,
+          "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=1200&q=85"
+        }
+      ],
+      "createdAt": "2026-11-04T06:41:02.775Z",
+      "paymentGatewayUrl": "/checkout?order=NNN-57011&gateway=CLICK",
+      "telegramLog": "Telegram payload queued (Configure TELEGRAM_BOT_TOKEN & TELEGRAM_CHAT_ID in .env for live push) — 08:41:02"
+    },
+    {
+      "id": "ord-1001",
+      "orderNumber": "NNN-26101",
+      "userId": "user-client-1",
+      "customerName": "Javohir Rustamov",
+      "customerPhone": "+998 90 945 77 12",
+      "customerEmail": "javohir@client.uz",
+      "region": "Toshkent shahri",
+      "district": "Yunusobod tumani",
+      "addressLine": "C-4 mavzesi, 18-uy, 42-xonadon",
+      "deliveryMethod": "TASHKENT_EXPRESS",
+      "shippingCostUzs": 0,
+      "subtotalUzs": 5780000,
+      "discountCode": "MONOLITH300",
+      "discountAmountUzs": 300000,
+      "totalUzs": 5480000,
+      "paymentMethod": "PAYME",
+      "paymentStatus": "SANDBOX_VERIFIED",
+      "paymentTransactionId": "PAYME-TX-9948210",
+      "status": "DELIVERED",
+      "telegramNotified": true,
+      "telegramLog": "Sent to @nnn_atelier_orders_bot (2026-10-29 14:22)",
+      "items": [
+        {
+          "productId": "prod-monolith-overcoat",
+          "sku": "NNN-AW26-OC01",
+          "slug": "monolith-wool-overcoat",
+          "nameUz": "MONOLITH Jun-Kaşmir Palto",
+          "nameRu": "Шерстяное пальто MONOLITH с кашемиром",
+          "nameEn": "MONOLITH Wool-Cashmere Overcoat",
+          "colorId": "obsidian-black",
+          "colorName": "Obsidian Qora",
+          "colorHex": "#141416",
+          "size": "L",
+          "quantity": 1,
+          "unitPriceUzs": 4290000,
+          "image": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+          "productId": "prod-form-hoodie-580",
+          "sku": "NNN-AW26-HD03",
+          "slug": "form-heavyweight-hoodie-580gsm",
+          "nameUz": "FORM 580 GSM Og'ir Vaznli Xudi",
+          "nameRu": "Тяжелое худи FORM 580 GSM",
+          "nameEn": "FORM 580 GSM Heavyweight Boxy Hoodie",
+          "colorId": "washed-obsidian",
+          "colorName": "Obsidian Qora",
+          "colorHex": "#18181B",
+          "size": "L",
+          "quantity": 1,
+          "unitPriceUzs": 1490000,
+          "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "createdAt": "2026-10-29T14:20:00.000Z"
+    },
+    {
+      "id": "ord-1002",
+      "orderNumber": "NNN-26102",
+      "userId": "user-client-2",
+      "customerName": "Bekzod Karimov",
+      "customerPhone": "+998 93 512 88 90",
+      "customerEmail": "bekzod.karimov@uzcard.uz",
+      "region": "Samarqand",
+      "district": "Samarqand shahri",
+      "addressLine": "Universitet xiyoboni, 14-uy",
+      "deliveryMethod": "REGIONAL_COURIER",
+      "shippingCostUzs": 0,
+      "subtotalUzs": 3150000,
+      "discountAmountUzs": 0,
+      "totalUzs": 3150000,
+      "paymentMethod": "CLICK",
+      "paymentStatus": "SANDBOX_VERIFIED",
+      "paymentTransactionId": "CLICK-TX-7782341",
+      "status": "SHIPPED",
+      "telegramNotified": true,
+      "telegramLog": "Sent to @nnn_atelier_orders_bot (2026-11-02 17:05)",
+      "items": [
+        {
+          "productId": "prod-axis-blazer",
+          "sku": "NNN-AW26-BL02",
+          "slug": "axis-double-breasted-blazer",
+          "nameUz": "AXIS Ikki Bortli Me'moriy Pijak",
+          "nameRu": "Двубортный архитектурный пиджак AXIS",
+          "nameEn": "AXIS Double-Breasted Architectural Blazer",
+          "colorId": "matte-black",
+          "colorName": "Mat Qora",
+          "colorHex": "#111113",
+          "size": "M",
+          "quantity": 1,
+          "unitPriceUzs": 3150000,
+          "image": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "createdAt": "2026-11-02T17:04:00.000Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "user-admin",
+      "email": "admin@nnnbrand.uz",
+      "name": "Sardor Alimov (NNN Creative Director)",
+      "phone": "+998 90 100 00 01",
+      "role": "ADMIN",
+      "region": "Toshkent shahri",
+      "address": "Mirobod tumani, Taras Shevchenko ko'chasi, 21-uy",
+      "totalSpentUzs": 0,
+      "ordersCount": 0,
+      "createdAt": "2026-01-10T08:00:00.000Z"
+    },
+    {
+      "id": "user-client-1",
+      "email": "javohir@client.uz",
+      "name": "Javohir Rustamov",
+      "phone": "+998 90 945 77 12",
+      "role": "CUSTOMER",
+      "region": "Toshkent shahri",
+      "address": "Yunusobod tumani, C-4 mavzesi, 18-uy, 42-xonadon",
+      "totalSpentUzs": 5780000,
+      "ordersCount": 2,
+      "createdAt": "2026-09-14T11:20:00.000Z"
+    },
+    {
+      "id": "user-client-2",
+      "email": "bekzod.karimov@uzcard.uz",
+      "name": "Bekzod Karimov",
+      "phone": "+998 93 512 88 90",
+      "role": "CUSTOMER",
+      "region": "Samarqand",
+      "address": "Samarqand shahri, Universitet xiyoboni, 14-uy",
+      "totalSpentUzs": 3150000,
+      "ordersCount": 1,
+      "createdAt": "2026-10-05T15:40:00.000Z"
+    },
+    {
+      "id": "user-1793774463036",
+      "email": "azizbek@nnn.uz",
+      "name": "Azizbek Rahimov",
+      "phone": "+998 90 123 45 67",
+      "role": "CUSTOMER",
+      "region": "Toshkent shahri",
+      "address": "Mirobod tumani, Taras Shevchenko 21",
+      "totalSpentUzs": 1386000,
+      "ordersCount": 1,
+      "createdAt": "2026-11-04T06:41:03.036Z"
+    }
+  ],
+  "inquiries": [
+    {
+      "id": "inq-1",
+      "name": "Timur Ismoilov",
+      "phone": "+998 97 701 44 55",
+      "email": "timur@architects.uz",
+      "subject": "VIP Individual Fitting — MONOLITH Palto",
+      "message": "Assalomu alaykum, shanba kuni soat 16:00 da Toshkent showroomda individual o'lchov va ko'rik uchun vaqt band qilmoqchi edim.",
+      "appointmentDate": "2026-11-07",
+      "createdAt": "2026-11-03T10:15:00.000Z"
+    }
+  ]
+}
